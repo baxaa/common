@@ -1,4 +1,4 @@
-module github.com/common
+module github.com/baxaa/common
 
 go 1.24.4
 
